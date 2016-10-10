@@ -62,6 +62,16 @@ body
 	text-align: 
 }
 
+/*content#2*/
+.fourth-strip
+{
+	color: #ddd;
+	background-color: black;
+	height: 400px;
+	display: block;
+	text-align: 
+}
+
 footer
 {
 	background-color: #333; 
