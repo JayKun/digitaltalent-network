@@ -1,5 +1,5 @@
 <h1>UPDATE</h1>
-<b>The search functionality as well as 90% of the backend is up and running. However, the layout of  the candidate page still requires a lot of touching up. </b>
+<b>The search functionality as well as 90% of the backend are up and running. However, the layout of the candidate page as well as the frontend still require a lot of touching up. </b>
 
 <h1>Description</h1> 
 <hr></hr>
