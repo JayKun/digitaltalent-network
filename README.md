@@ -4,6 +4,8 @@ This is my first large-scale web application. It was developed as part of a prop
 The preliminary app was developed in PHP using Codeigniter as the framework. 
 
 <h2>Preliminary Demo Site</h2>
+<img src="junkaiong.com/img/digit.png"/>
+
 <a href="http://digitalnetwork.netne.net/">
 Demo App here !
 </a>
